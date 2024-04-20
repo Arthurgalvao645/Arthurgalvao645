@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+    Olá, eu sou o 
     <a href="https://www.linkedin.com/in/arthur-galv%C3%A3o-dos-santos-9082581b9/?msgControlName=view_message_button&msgConversationId=2-MGMxYTViMjktZDRiYi00NGI3LTg2ZTgtMzdmNjFjZWJmZDQzXzAxMw%3D%3D&msgOverlay=true">Arthur Galvão 😎😎</a>
   </h1>
   
