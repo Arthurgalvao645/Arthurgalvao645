@@ -55,4 +55,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=white&text=Input%20text&fontAlignY=32&textBg=false&section=footer&reversal=true&fontAlign=62&descAlignY=77&descAlign=72/api?type=waving&color=4169E1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=white&section=footer"/>
