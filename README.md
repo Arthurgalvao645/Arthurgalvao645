@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/Arthurgalvao645">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Arthurgalvao645&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Arthurgalvao645&show_icons=true&theme=dark&include_all_commits=true&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgalvao645&layout=compact&langs_count=16&theme=dark"/>
   </a>
 
