@@ -1,80 +1,77 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=B6DCB6&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1f2937,100:111827&section=header"/>
 
 <h1 align="center">Arthur Galvão</h1>
 
 <p align="center">
-Desenvolvedor Full Stack em formação<br>
-Foco em React, Java e C#<br>
-Estudante de Engenharia de Software
+Full Stack Developer | Software Engineering Student
+</p>
+
+<p align="center">
+Building scalable applications with clean architecture and strong fundamentals.
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Profile
 
-Sou desenvolvedor focado em construção de aplicações web modernas e bem estruturadas.  
-Tenho interesse em desenvolvimento Full Stack, boas práticas de código e evolução contínua.
+Software developer focused on building well-structured, maintainable and scalable applications.
 
-Atualmente aprimorando conhecimentos em:
-- Arquitetura de Software
-- APIs REST
-- Estruturas de Dados
-- Boas práticas e Clean Code
+Strong interest in backend development, software architecture, performance and clean code practices.  
+Continuously improving through practical projects and deep study of core computer science concepts.
 
 ---
 
-## 🚀 Tecnologias
+## Core Stack
 
-### Front-End
-- React
-- JavaScript
-- HTML5
-- CSS3
+**Frontend**  
+React • JavaScript • HTML • CSS
 
-### Back-End
-- Java
-- C#
-- Node.js
+**Backend**  
+Java • C# • Node.js • REST APIs
 
-### Banco de Dados
-- MySQL
-- PostgreSQL
+**Databases**  
+PostgreSQL • MySQL
 
-### Ferramentas
-- Git
-- GitHub
-- Linux
+**Tools & Environment**  
+Git • GitHub • Linux • VS Code
 
 ---
 
-## 📊 Estatísticas
+## Engineering Focus
+
+- Clean Code & SOLID principles  
+- RESTful API design  
+- Layered Architecture  
+- Version Control Best Practices  
+- Performance and code readability  
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Arthurgalvao645&show_icons=true&theme=default&hide_border=true&include_all_commits=true"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgalvao645&layout=compact&theme=default&hide_border=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Arthurgalvao645&show_icons=true&hide_border=true&include_all_commits=true&theme=default"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgalvao645&layout=compact&hide_border=true&theme=default"/>
 </div>
 
 ---
 
-## 📌 Projetos em Destaque
+## Selected Work
 
-Aqui você encontrará projetos voltados para prática de desenvolvimento Full Stack, APIs, aplicações web e estudos de arquitetura.
-
-(Em constante atualização)
+Projects focused on backend structure, API development and full stack applications.  
+Emphasis on code organization, scalability and real-world problem solving.
 
 ---
 
-## 📫 Contato
+## Contact
 
-<p align="left">
-<a href="mailto:arthurgsprogramador@gmail.com">Email</a><br>
-<a href="https://www.linkedin.com/in/arthur-galv%C3%A3o-dos-santos-9082581b9/" target="_blank">LinkedIn</a>
-</p>
+Email: arthurgsprogramador@gmail.com  
+LinkedIn: https://www.linkedin.com/in/arthur-galv%C3%A3o-dos-santos-9082581b9/
 
 ---
 
 <p align="center">
-Aberto a oportunidades como Desenvolvedor Júnior ou Estágio em Desenvolvimento
+Open to Junior Developer and Internship opportunities
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=B6DCB6&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:111827,100:1f2937&section=footer"/>
