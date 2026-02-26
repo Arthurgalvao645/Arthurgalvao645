@@ -48,16 +48,6 @@ Git • GitHub • Linux • VS Code
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Arthurgalvao645&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&rank_icon=github"/>
-  
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgalvao645&layout=compact&hide_border=true&theme=default&langs_count=6&size_weight=0.5&count_weight=0.5"/>
-</div>
-
----
-
 ## Projetos
 
 Os projetos disponíveis neste perfil são voltados para:
