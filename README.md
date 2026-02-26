@@ -53,7 +53,7 @@ Git • GitHub • Linux • VS Code
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Arthurgalvao645&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default"/>
   
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgalvao645&layout=compact&hide_border=true&theme=default&langs_count=8&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgalvao645&layout=compact&hide_border=true&theme=default&count_private=true&cache_seconds=1800"/>
 </div>
 
 ---
