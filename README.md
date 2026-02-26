@@ -3,51 +3,52 @@
 <h1 align="center">Arthur Galvão</h1>
 
 <p align="center">
-Full Stack Developer | Software Engineering Student
+Desenvolvedor Full Stack | Estudante de Engenharia de Software
 </p>
 
 <p align="center">
-Building scalable applications with clean architecture and strong fundamentals.
+Construindo aplicações escaláveis com foco em arquitetura, qualidade de código e boas práticas.
 </p>
 
 ---
 
-## Profile
+## Perfil Profissional
 
-Software developer focused on building well-structured, maintainable and scalable applications.
+Desenvolvedor focado na construção de aplicações bem estruturadas, performáticas e sustentáveis a longo prazo.
 
-Strong interest in backend development, software architecture, performance and clean code practices.  
-Continuously improving through practical projects and deep study of core computer science concepts.
+Tenho forte interesse em desenvolvimento backend, arquitetura de software e fundamentos sólidos de engenharia.  
+Busco evoluir continuamente através de projetos práticos e aprofundamento em conceitos essenciais da computação.
 
 ---
 
-## Core Stack
+## Stack Principal
 
 **Frontend**  
 React • JavaScript • HTML • CSS
 
 **Backend**  
-Java • C# • Node.js • REST APIs
+Java • C# • Node.js • Desenvolvimento de APIs REST
 
-**Databases**  
+**Banco de Dados**  
 PostgreSQL • MySQL
 
-**Tools & Environment**  
+**Ferramentas e Ambiente**  
 Git • GitHub • Linux • VS Code
 
 ---
 
-## Engineering Focus
+## Foco em Engenharia
 
-- Clean Code & SOLID principles  
-- RESTful API design  
-- Layered Architecture  
-- Version Control Best Practices  
-- Performance and code readability  
+- Clean Code e princípios SOLID  
+- Estruturação em camadas (Layered Architecture)  
+- Desenvolvimento de APIs RESTful  
+- Versionamento e boas práticas com Git  
+- Organização e legibilidade de código  
+- Evolução contínua em fundamentos de computação  
 
 ---
 
-## GitHub Analytics
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Arthurgalvao645&show_icons=true&hide_border=true&include_all_commits=true&theme=default"/>
@@ -56,14 +57,21 @@ Git • GitHub • Linux • VS Code
 
 ---
 
-## Selected Work
+## Projetos
 
-Projects focused on backend structure, API development and full stack applications.  
-Emphasis on code organization, scalability and real-world problem solving.
+Os projetos disponíveis neste perfil são voltados para:
+
+- Estruturação backend
+- Desenvolvimento Full Stack
+- Implementação de APIs
+- Aplicação de boas práticas
+- Resolução de problemas reais
+
+(Em constante evolução)
 
 ---
 
-## Contact
+## Contato
 
 Email: arthurgsprogramador@gmail.com  
 LinkedIn: https://www.linkedin.com/in/arthur-galv%C3%A3o-dos-santos-9082581b9/
@@ -71,7 +79,7 @@ LinkedIn: https://www.linkedin.com/in/arthur-galv%C3%A3o-dos-santos-9082581b9/
 ---
 
 <p align="center">
-Open to Junior Developer and Internship opportunities
+Aberto a oportunidades como Desenvolvedor Júnior ou Estágio em Desenvolvimento
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:111827,100:1f2937&section=footer"/>
