@@ -1,61 +1,80 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=B6DCB6&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=B6DCB6&section=header"/>
 
-<div>
-  
-  <h1 align="center">
-    Olá, eu sou o 
-    <a href="https://www.linkedin.com/in/arthur-galv%C3%A3o-dos-santos-9082581b9/?msgControlName=view_message_button&msgConversationId=2-MGMxYTViMjktZDRiYi00NGI3LTg2ZTgtMzdmNjFjZWJmZDQzXzAxMw%3D%3D&msgOverlay=true">Arthur Galvão 😎😎</a>
-  </h1>
-  
-  <p align="center">
-    Sou um programador apaixonado por tecnologia e através deste espaço, compartilho os projetos nos quais trabalho, seja explorando novas tecnologias, aprimorando minhas habilidades ou colaborando com a comunidade de desenvolvedores. Aqui você encontrará uma variedade de repositórios que refletem meu percurso e evolução no mundo da programação.
-    </a>  
-  </p>
-  
-  <p align="center">
-  </p>
-</div>
+<h1 align="center">Arthur Galvão</h1>
 
+<p align="center">
+Desenvolvedor Full Stack em formação<br>
+Foco em React, Java e C#<br>
+Estudante de Engenharia de Software
+</p>
 
+---
 
-<div align="center">
-  <a href="https://github.com/Arthurgalvao645">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Arthurgalvao645&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide_border=false&text_color="4169E1"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgalvao645&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-  </a>
-</div>
+## 👨‍💻 Sobre mim
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png">
-  <img align="center" alt="Java" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
-  <img align="center" alt="C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div><br>
+Sou desenvolvedor focado em construção de aplicações web modernas e bem estruturadas.  
+Tenho interesse em desenvolvimento Full Stack, boas práticas de código e evolução contínua.
 
-<div align="center">
-  <a href="https://www.instagram.com/the_arthurgalvao?igsh=YnV2OGdjcmhzdmZu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-galv%C3%A3o-dos-santos-9082581b9/?msgControlName=view_message_button&msgConversationId=2-MGMxYTViMjktZDRiYi00NGI3LTg2ZTgtMzdmNjFjZWJmZDQzXzAxMw%3D%3D&msgOverlay=true" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:arthurgsprogramador@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+Atualmente aprimorando conhecimentos em:
+- Arquitetura de Software
+- APIs REST
+- Estruturas de Dados
+- Boas práticas e Clean Code
 
+---
 
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/arthurgalvao645?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green) 
-</div>
+## 🚀 Tecnologias
+
+### Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend
+- Java
+- C#
+- Node.js
+
+### Banco de Dados
+- MySQL
+- PostgreSQL
+
+### Ferramentas
+- Git
+- GitHub
+- Linux
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{arthurgalvao645}/count.svg" /></p> 
-<br>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Arthurgalvao645&show_icons=true&theme=default&hide_border=true&include_all_commits=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgalvao645&layout=compact&theme=default&hide_border=true"/>
 </div>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=B6DCB6&section=footer"/>
+## 📌 Projetos em Destaque
+
+Aqui você encontrará projetos voltados para prática de desenvolvimento Full Stack, APIs, aplicações web e estudos de arquitetura.
+
+(Em constante atualização)
+
+---
+
+## 📫 Contato
+
+<p align="left">
+<a href="mailto:arthurgsprogramador@gmail.com">Email</a><br>
+<a href="https://www.linkedin.com/in/arthur-galv%C3%A3o-dos-santos-9082581b9/" target="_blank">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+Aberto a oportunidades como Desenvolvedor Júnior ou Estágio em Desenvolvimento
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=B6DCB6&section=footer"/>
