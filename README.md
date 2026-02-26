@@ -3,7 +3,7 @@
 <h1 align="center">Arthur Galvão</h1>
 
 <p align="center">
-Desenvolvedor Full Stack | Estudante de Engenharia de Software
+Desenvolvedor Full Stack | Estudante de Ciência da Computação
 </p>
 
 <p align="center">
@@ -51,8 +51,9 @@ Git • GitHub • Linux • VS Code
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Arthurgalvao645&show_icons=true&hide_border=true&include_all_commits=true&theme=default"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgalvao645&layout=compact&hide_border=true&theme=default"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Arthurgalvao645&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default"/>
+  
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgalvao645&layout=compact&hide_border=true&theme=default&langs_count=8&count_private=true"/>
 </div>
 
 ---
