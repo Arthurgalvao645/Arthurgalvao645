@@ -25,13 +25,13 @@ Atualmente aprimorando conhecimentos em:
 
 ## 🚀 Tecnologias
 
-### Frontend
+### Front-End
 - React
 - JavaScript
 - HTML5
 - CSS3
 
-### Backend
+### Back-End
 - Java
 - C#
 - Node.js
